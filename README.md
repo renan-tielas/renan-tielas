@@ -6,4 +6,4 @@ Tenho alguns projetos iniciados, em diferentes contextos, em fase de aprendizado
 
 Front: React - Next - SASS - Redux
 
-Back: Node - Axios - MongoDB - Mongoose
+Back: Node - Express - Axios - MongoDB - Mongoose
