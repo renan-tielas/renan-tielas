@@ -4,7 +4,7 @@ Me chamo Renan e tenho interesse no desenvolvimento de tecnologias sociais virtu
 
 Tenho alguns projetos iniciados, em diferentes contextos, em fase de aprendizado, e desenvolvimento experimental.
 
-Front: React - Next - SASS - Redux
+Front: React - Next - Redux - SASS 
 
 Design: Figma
 
