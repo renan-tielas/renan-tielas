@@ -8,4 +8,4 @@ Front: React - Next - SASS - Redux
 
 Design: Figma
 
-Back: Node - Express - Axios - MongoDB - Mongoose
+Back: Node - Express - Axios - Mongoose > MongoDB  
