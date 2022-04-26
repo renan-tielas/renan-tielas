@@ -6,6 +6,6 @@ Tenho alguns projetos iniciados, em diferentes contextos, em fase de aprendizado
 
 Front: React - Next - SASS - Redux
 
-Design: ![image](https://user-images.githubusercontent.com/52353767/164164048-817634d6-5689-487a-a4d3-7353d9fa5da2.png)
+Design: Figma
 
 Back: Node - Express - Axios - MongoDB - Mongoose
