@@ -11,7 +11,9 @@ Design: Figma
 
 Back: Node - Express - Axios - Mongoose > MongoDB  
  ![braid gif](https://user-images.githubusercontent.com/52353767/165452568-da5995b3-2f48-4592-a8f4-8dbe20d3f7bf.gif)
-                              																																														
+  <a href="https://www.linkedin.com/in/renan-barcia-bba434208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>																																												
                                                             
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/52353767/165452568-da5995b3-2f48-4592-a8f4-8dbe20d3f7bf.gif" width="100"/>
