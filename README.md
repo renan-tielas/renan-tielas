@@ -7,14 +7,15 @@ Em um estágio na Empresa de Pesquisa Energética (EPE), do governo brasileiro, 
 
 Iniciei os estudos de desenvolvimento web durante o começo da pandemia, através de cursos e eventos online, tutoriais, documentações, e experimentação. 
 
-Atualmente:
-              Busco trabalhar para visualizar junto aos movimentos 
-              um paradigma descentralizado de comunicação, educação, e organização popular, 
-              buscando criar um meio facilitador entre pessoas, grupos e redes, existentes e os que estão porvir, 
-              ferramentado por diferentes tecnologias sociais de interação, entendimento e co-construção do mundo,
-              através do trabalho agroecológico, da economia solidária, da autogestão, das tecnologias sociais, dos movimentos sociais ... 
-         
+Atualmente: <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Busco trabalhar para visualizar junto aos movimentos <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                um paradigma descentralizado de comunicação, educação, e organização popular,  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               buscando criar um meio facilitador entre pessoas, grupos e redes, existentes e os que estão porvir,  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             ferramentado por diferentes tecnologias sociais de interação, entendimento e co-construção do mundo, <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             através do trabalho agroecológico, da economia solidária, da autogestão, das tecnologias sociais, dos movimentos sociais ...  <br/>
+          <br/> <br/>
 Tenho alguns projetos iniciados em diferentes contextos, em fase de aprendizado, pesquisa, e desenvolvimento experimental, algumas vezes envolvendo parceiros próximos.
+Nos repositórios tem algumas explicações e prints.
 
 Tecnologias:
 
