@@ -1,15 +1,38 @@
-Olá :)                                                                                                                      
+Oi,
+                                                                                                                   
+Me chamo Renan e tenho interesse no desenvolvimento de tecnologias sociais virtuais em conjunto com movimentos sociais, da agroecologia, economia solidária e autogestão. Sou graduando em engenharia ambiental pela UFRJ, participei por alguns anos no coletivo Mutirão de Agroecologia (MUDA UFRJ), assim como na Rede dos Grupos de Agroecologia da UFRJ e na Rede dos Grupos de Agroecologia do Brasil, da qual ainda participo. 
 
+Aprendi programação através de experiências com Matlab em 2 iniciações científicas na UFRJ, e matérias na University of Canterbury, Nova Zelândia, durante o programa de intercâmbio Ciência Sem Fronteiras, do governo Dilma.
+Em um estágio na Empresa de Pesquisa Energética (EPE), do governo brasileiro, participei na pesquisa de simulação de cenários econômicos a partir da criação de suposto crédito de carbono específico ao setor de transportes do Brasil. 
 
-Me chamo Renan e tenho interesse no desenvolvimento de tecnologias sociais virtuais.
+Iniciei os estudos de desenvolvimento web durante o começo da pandemia, através de cursos e eventos online, tutoriais, documentações, e experimentação. 
 
-Tenho alguns projetos iniciados, em diferentes contextos, em fase de aprendizado, e desenvolvimento experimental.
+Atualmente:
+              Busco trabalhar para visualizar junto aos movimentos 
+              um paradigma descentralizado de comunicação, educação, e organização popular, 
+              buscando criar um meio facilitador entre pessoas, grupos e redes, existentes e os que estão porvir, 
+              ferramentado por diferentes tecnologias sociais de interação, entendimento e co-construção do mundo,
+              através do trabalho agroecológico, da economia solidária, da autogestão, das tecnologias sociais, dos movimentos sociais ... 
+         
+Tenho alguns projetos iniciados em diferentes contextos, em fase de aprendizado, pesquisa, e desenvolvimento experimental, algumas vezes envolvendo parceiros próximos.
 
-Front: React - Next - Redux - SASS - TypeScript
+Tecnologias:
 
-Design: Figma
+Front End: React - Next - Redux - SASS (intermediário)
 
-Back: Node - Express - Axios - Mongoose > MongoDB  
+Design: Figma (básico)
+
+Back End: Node - Express - Axios - Mongoose (iniciante)
+
+Banco de Dados: MongoDB (iniciante)
+
+Linguagens:
+JavaScript - intermediário
+TypeScript - iniciante
+
+C#, Java - Noções
+
+Matlab, Julia - básico
 
   <a href="https://www.linkedin.com/in/renan-barcia-bba434208/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
