@@ -3,9 +3,11 @@ Oi,
 Me chamo Renan e tenho interesse no desenvolvimento de tecnologias sociais virtuais em conjunto com movimentos sociais, da agroecologia, economia solidária e autogestão. Sou graduando em engenharia ambiental pela UFRJ, participei por alguns anos no coletivo Mutirão de Agroecologia (MUDA UFRJ), assim como na Rede dos Grupos de Agroecologia da UFRJ e na Rede dos Grupos de Agroecologia do Brasil, da qual ainda participo. 
 
 Aprendi programação através de experiências com Matlab em 2 iniciações científicas na UFRJ, e matérias na University of Canterbury, Nova Zelândia, durante o programa de intercâmbio Ciência Sem Fronteiras, do governo Dilma.
-Em um estágio na Empresa de Pesquisa Energética (EPE), do governo brasileiro, participei na pesquisa de simulação de cenários econômicos a partir da criação de suposto crédito de carbono específico ao setor de transportes do Brasil. 
+Em um estágio na Empresa de Pesquisa Energética (EPE), do governo brasileiro, participei na pesquisa de simulação de cenários econômicos a partir da criação de suposto crédito de carbono específico ao setor de transportes do Brasil, utilizando Julia.
 
 Iniciei os estudos de desenvolvimento web durante o começo da pandemia, através de cursos e eventos online, tutoriais, documentações, e experimentação. 
+Tenho um certificado de desenvolvedor júnior fullstack pela StartSe.
+
 
 Atualmente: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Busco trabalhar para visualizar junto aos movimentos <br/>
@@ -19,7 +21,7 @@ Nos repositórios tem algumas explicações e prints.
 
 Tecnologias:
 
-Front End: React - Next - Redux - SASS (intermediário)
+Front End: React - Next - Redux - SASS (intermediário) WordPress (iniciante)
 
 Design: Figma (básico)
 
