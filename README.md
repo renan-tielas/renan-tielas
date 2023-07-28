@@ -2,38 +2,30 @@ Oi,
                                                                                                                    
 Me chamo Renan e tenho interesse no desenvolvimento de tecnologias sociais virtuais em conjunto com movimentos sociais, da agroecologia, economia solidária e autogestão. Sou graduando em engenharia ambiental pela UFRJ, participei por alguns anos no coletivo Mutirão de Agroecologia (MUDA UFRJ), assim como na Rede dos Grupos de Agroecologia da UFRJ e na Rede dos Grupos de Agroecologia do Brasil, da qual ainda participo. 
 
-Aprendi programação através de experiências com Matlab em 2 iniciações científicas na UFRJ, e matérias na University of Canterbury, Nova Zelândia, durante o programa de intercâmbio Ciência Sem Fronteiras, do governo Dilma.
+Aprendi programação através de experiências com Matlab em 2 iniciações científicas na UFRJ, e matérias na University of Canterbury, Nova Zelândia, durante o programa de intercâmbio Ciência Sem Fronteiras.
 Em um estágio na Empresa de Pesquisa Energética (EPE), do governo brasileiro, participei na pesquisa de simulação de cenários econômicos a partir da criação de suposto crédito de carbono específico ao setor de transportes do Brasil, utilizando Julia.
 
-Iniciei os estudos de desenvolvimento web durante o começo da pandemia, através de cursos e eventos online, tutoriais, documentações, e experimentação. 
-Tenho um certificado de desenvolvedor júnior fullstack pela StartSe.
+Iniciei os estudos de desenvolvimento web durante o começo da pandemia, através de cursos e eventos online, tutoriais, documentações, e experimentação. Certificado como desenvolvedor júnior fullstack pela StartSe.
 
-
-Atualmente: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Busco trabalhar para visualizar junto aos movimentos <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                um paradigma descentralizado de comunicação, educação, e organização popular,  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               buscando criar um meio facilitador entre pessoas, grupos e redes, existentes e os que estão porvir,  <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             ferramentado por diferentes tecnologias sociais de interação, entendimento e co-construção do mundo, <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             através do trabalho agroecológico, da economia solidária, da autogestão, das tecnologias sociais, dos movimentos sociais ...  <br/>
-          <br/> <br/>
-Tenho alguns projetos iniciados em diferentes contextos, em fase de aprendizado, pesquisa, e desenvolvimento experimental, algumas vezes envolvendo parceiros próximos.
-Nos repositórios tem algumas explicações e prints.
+Trabalhando para o site do XII Congresso Brasileiro de Agroecologia - https://cba.aba-agroecologia.org.br/
 
 Tecnologias:
 
-Front End: React - Next - Redux - SASS (intermediário) WordPress (iniciante)
+Front End: React - Next - Redux - SASS - Stitches
+
+WordPress: Estilização, Customização de Plugin, Elementor
 
 Design: Figma (básico)
 
-Back End: Node - Express - Axios - Mongoose (iniciante)
+Back End: Node - Express - Axios - Mongoose (básico)
 
-Banco de Dados: MongoDB (iniciante)
+Banco de Dados: MongoDB (básico)
 
 Linguagens:
 JavaScript - intermediário
 TypeScript - iniciante
 
-C#, Java - Noções
+C#, Java, PHP - Noções
 
 Matlab, Julia - básico
 
